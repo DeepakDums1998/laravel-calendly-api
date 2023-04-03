@@ -1,5 +1,5 @@
 {
-    "name": "gentor/laravel-calendly-api",
+    "name": "deepak/laravel-calendly-api",
     "description": "PHP Calendly API (v2) SDK for Laravel",
     "keywords": [
         "laravel",

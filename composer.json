@@ -33,6 +33,5 @@
                 "Calendly": "Gentor\\Calendly\\Calendly"
             }
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
